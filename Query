@@ -1,0 +1,1 @@
+“all  =  ( ( ( ( ( fish* )  AND  ( co-locat*  OR  collocat*  OR  co-exist*  OR  coexist*  OR  multi-use$  OR  multiuse$  OR  co-use$  OR  couse$ )  AND  ( offshore  AND wind  AND farm$  OR  offshore  AND renewable$ )  AND  ( marine  OR  maritime  OR  ocean  OR  spatial  AND  plan* ) ) ) ) )” 
